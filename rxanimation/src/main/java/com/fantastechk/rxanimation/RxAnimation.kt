@@ -1,4 +1,4 @@
-package com.mikhaellopez.rxanimation
+package com.fantastechk.rxanimation
 
 import android.view.View
 import io.reactivex.rxjava3.core.Completable

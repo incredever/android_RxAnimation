@@ -1,4 +1,4 @@
-package com.mikhaellopez.rxanimation
+package com.fantastechk.rxanimation
 
 import android.animation.TimeInterpolator
 import android.animation.ValueAnimator

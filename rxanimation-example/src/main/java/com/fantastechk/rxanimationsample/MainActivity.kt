@@ -1,4 +1,4 @@
-package com.mikhaellopez.rxanimationsample
+package com.fantastechk.rxanimationsample
 
 import android.content.res.Resources
 import android.os.Bundle
@@ -6,7 +6,7 @@ import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import com.jakewharton.rxbinding4.view.clicks
-import com.mikhaellopez.rxanimation.*
+import com.fantastechk.rxanimation.*
 import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers
 import io.reactivex.rxjava3.core.Observable
 import io.reactivex.rxjava3.disposables.CompositeDisposable

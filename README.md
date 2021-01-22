@@ -2,16 +2,9 @@
 
 <img src="/preview/title.gif" alt="title" title="title" width="300" height="87.8" />
 
-[![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
-[![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
-[![Download](https://api.bintray.com/packages/lopspower/maven/com.mikhaellopez:rxanimation/images/download.svg?version=2.0.0)](https://bintray.com/lopspower/maven/com.mikhaellopez:rxanimation/2.0.0/link)
-<br>
-[![Twitter](https://img.shields.io/badge/Twitter-@LopezMikhael-blue.svg?style=flat)](http://twitter.com/lopezmikhael)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c793e3842c79477399967e2443c76990)](https://app.codacy.com/app/lopspower/RxAnimation?utm_source=github.com&utm_medium=referral&utm_content=lopspower/CircleView&utm_campaign=Badge_Grade_Dashboard)
-
 This is an Android library to make a simple way to animate your views on Android with Rx.
 
-<a href="https://play.google.com/store/apps/details?id=com.mikhaellopez.lopspower">
+<a href="https://play.google.com/store/apps/details?id=com.fantastechk.lopspower">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
 
@@ -21,14 +14,14 @@ USAGE
 Add RxAnimation library under **Rx3** with Gradle:
 
 ```groovy
-implementation 'com.mikhaellopez:rxanimation:2.0.0'
+implementation 'com.fantastechk:rxanimation:2.0.0'
 ```
 
 :warning: If you use **Rx2** you need to implement the following version:
 
 
 ```groovy
-implementation 'com.mikhaellopez:rxanimation:1.0.0'
+implementation 'com.fantastechk:rxanimation:1.0.0'
 ```
 
 KOTLIN
@@ -177,8 +170,3 @@ SUPPORT ❤️
 Find this library useful? Support it by joining [**stargazers**](https://github.com/lopspower/RxAnimation/stargazers) for this repository ⭐️
 <br/>
 And [**follow me**](https://github.com/lopspower?tab=followers) for my next creations 👍
-
-LICENCE
------
-
-RxAnimation by [Lopez Mikhael](http://mikhaellopez.com/) is licensed under a [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).

@@ -30,7 +30,7 @@ dependencies {
 }
 
 //region Publish to jCenter
-def libGroupId = 'com.mikhaellopez'
+def libGroupId = 'com.fantastechk'
 def libArtifactId = 'rxanimation'
 def libVersion = androidVersionName
 def libDesc = 'Simple way to animate your views on Android with Rx'
